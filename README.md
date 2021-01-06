@@ -2,4 +2,4 @@
 
 This bot is built to support the EndSARS Police Brutality Campaign on Twitter. 
 
-The Bot will reply any mentions (@endsarsbott) with EndSARS hashtags Reply Tweet! 
+The Bot will reply any mentions (@SoroSokeBot) with EndSARS hashtags Reply Tweet! 
